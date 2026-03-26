@@ -1,0 +1,5 @@
+Aarav Sharma 
+Education: B.Tech in Computer Science 
+Skills: Python, Machine Learning, NLP, TensorFlow 
+Projects: Built NLP chatbot, Resume screening system 
+Experience: Internship in AI development

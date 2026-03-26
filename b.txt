@@ -1,0 +1,5 @@
+Karan Mehta 
+Education: B.Sc in Data Science 
+Skills: Python, Data Analysis, Pandas, NLP 
+Projects: Fake news detection, Data visualization dashboard 
+Experience: Data analyst intern
